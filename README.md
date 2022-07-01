@@ -2,4 +2,4 @@
 
 ### Minecraft Mods
 
-- [Simple Redstone Machinesó](https://github.com/endersgergo/simple-redstone-machines)
+- [Simple Redstone Machines](https://github.com/endersgergo/simple-redstone-machines)
